@@ -3,7 +3,7 @@
 == {{<span style="color:black;font-size:24pt;font-family:Songti SC">}}*Jiacheng Ye (叶佳成)*{{</span>}}\n
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{230}{230}
+{}{img_left}{photos/bio.jpg}{alt text}{200}{200}
 \n
 Second-year master student\n 
 [https://nlp.fudan.edu.cn NLP Group, School of Computer Science]\n
@@ -14,8 +14,9 @@ Second-year master student\n
 \[[https://jiacheng-ye.github.io/photos/cv.pdf CV]\] \[[https://github.com/jiacheng-ye Github]\] \[[https://scholar.google.com/citations?user=gh0CyxgAAAAJ Google Scholar]\]
 ~~~
 
-== About Me
-I am a second-year master student of the Natural Langauge Processing Group, School of Computer Science and Technology, Fudan University ([https://nlp.fudan.edu.cn/nlpen/main.htm FudanNLP]). My advisors are pre-tenured assistant professor [https://guitaowufeng.github.io/ Tao Gui] and professor [http://www.qizhang.info/ Qi Zhang]. I'm a person with curiosity about the unknown things, and I'm interested in many of 
+Thanks for stopping by my website!
+\n\n
+I am a second-year master student of the Natural Langauge Processing Group, School of Computer Science and Technology, Fudan University ([https://nlp.fudan.edu.cn/nlpen/main.htm FudanNLP]). My advisors are pre-tenured assistant professor [https://guitaowufeng.github.io/ Tao Gui] and professor [http://www.qizhang.info/ Qi Zhang]. I'm interested in many of 
 subtasks of NLP, such as Keyphrase Generation (ACL21), Named Entity Recognition (EMNLP20, IJCAI20) and Text Generation. 
 
 == Education
@@ -59,7 +60,7 @@ Tao Gui\*, Lizhi Qing\*, Qi Zhang, *Jiacheng Ye*, Hang Yan, Zichu Fei and Xuanji
 AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howardqlz/Meta-MTL code]\] \n
 
 == Internships
-- Sep. 2021 - Present 
+- Jun. 2021 - Present 
 \nResearch Intern, Tencent Ads. Mentor: Zhihui Lao and Lifeng Wang.
 \nResearch about a better pre-ranking paradigm for Advertising System and Recommendation System. 
 
@@ -72,9 +73,3 @@ AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howa
 - China Electronics Technology Guorui scholarship (Top 5\%), Fudan University, 2020.
 - The second-grade scholarship, Sun Yat-sen University, 2016\/2017\/2018.
 - The faculty scholarship, Sun Yat-sen University, 2016\/2017.
-
-== Visitors
-~~~
-{}{raw}
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=p1tpW45OXSpLmu8rgR26NcVL13amxMQ4bBj_P1HCqmQ'></script>
-~~~
