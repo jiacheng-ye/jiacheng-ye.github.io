@@ -17,7 +17,7 @@ Second-year master student\n
 Thanks for stopping by my website!
 \n\n
 I am a second-year master student of the Natural Langauge Processing Group, School of Computer Science and Technology, Fudan University ([https://nlp.fudan.edu.cn/nlpen/main.htm FudanNLP]). My advisors are pre-tenured assistant professor [https://guitaowufeng.github.io/ Tao Gui] and professor [http://www.qizhang.info/ Qi Zhang]. I'm interested in many of 
-subtasks of NLP, such as Keyphrase Generation (ACL21), Named Entity Recognition (EMNLP20, IJCAI20) and Text Generation. 
+subtasks of NLP, such as Keyphrase Generation, Named Entity Recognition and Text Generation.
 
 == Education
 - Sep. 2019 - Present 
@@ -38,24 +38,32 @@ My research interests include:
 (\*: equal contribution)
 
 *2021*
-- *TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing*\n
+- + \[NEW!\] + Heterogeneous Graph Neural Networks for Keyphrase Generation\n
+*Jiacheng Ye*\*, Ruijian Cai\*, Tao Gui and Qi Zhang. \n
+To appear in EMNLP 2021, long paper.
+
+- + \[NEW!\] + Keyphrase Generation with Fine-Grained Evaluation-Guided Reinforcement Learning\n
+Yichao Luo\*, Yige Xu\*, *Jiacheng Ye*, Xipeng Qiu and Qi Zhang\n
+To appear in EMNLP-Findings 2021, long paper.
+
+- TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing\n
 ACL 2021 Demo, \[[https://arxiv.org/pdf/2103.11441.pdf pdf]\] \[[https://www.textflint.io/textflint platform]\] \[[https://github.com/textflint/textflint code]\] \[[https://www.jiqizhixin.com/articles/2021-04-06-6 blog (zh)]\]
 
-- *One2Set: Generating Diverse Keyphrases as a Set*\n
+- One2Set: Generating Diverse Keyphrases as a Set\n
 *Jiacheng Ye*, Tao Gui, Yichao Luo, Yige Xu, and Qi Zhang. \n
 ACL 2021, long paper. \[[https://arxiv.org/abs/2105.11134 pdf]\] \[[https://github.com/jiacheng-ye/kg_one2set code]\] \[[https://mp.weixin.qq.com/s/u6ioHKkju1wXNWwIMFjuaw blog (zh)]\]
 
 *2020*
 
-- *Leveraging Document-Level Label Consistency for Named Entity Recognition* \n
+- Leveraging Document-Level Label Consistency for Named Entity Recognition \n
 Tao Gui\*, *Jiacheng Ye*\*, Qi Zhang, Yaqian Zhou, Yeyun Gong, Xuanjing Huang. \n
 IJCAI 2020. \[[https://www.ijcai.org/proceedings/2020/0550.pdf pdf]\] \[[https://github.com/jiacheng-ye/DocL-NER code]\] \n
 
-- *Uncertainty-Aware Label Refinement for Sequence Labeling* \n
+- Uncertainty-Aware Label Refinement for Sequence Labeling \n
 Tao Gui\*, *Jiacheng Ye*\*, Qi Zhang, Zhengyan Li, Zichu Fei, Yeyun Gong and Xuanjing Huang. \n
 EMNLP 2020, long paper. \[[https://aclanthology.org/2020.emnlp-main.181.pdf pdf]\] \[[https://github.com/jiacheng-ye/UANet code]\] \n
 
-- *Constructing Multiple Tasks for Augmentation: Improving Neural Image Classiﬁcation with K-means Features* \n
+- Constructing Multiple Tasks for Augmentation: Improving Neural Image Classiﬁcation with K-means Features \n
 Tao Gui\*, Lizhi Qing\*, Qi Zhang, *Jiacheng Ye*, Hang Yan, Zichu Fei and Xuanjing Huang.\n
 AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howardqlz/Meta-MTL code]\] \n
 
@@ -70,6 +78,6 @@ AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howa
 
 
 == Honors & Awards
-- China Electronics Technology Guorui scholarship (Top 5\%), Fudan University, 2020.
+- Glarun Scholarship of CETC-NRIET (Top 5\%), Fudan University, 2020.
 - The second-grade scholarship, Sun Yat-sen University, 2016\/2017\/2018.
 - The faculty scholarship, Sun Yat-sen University, 2016\/2017.
