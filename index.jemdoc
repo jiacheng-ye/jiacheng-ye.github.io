@@ -40,11 +40,11 @@ My research interests include:
 *2021*
 - + \[NEW!\] + Heterogeneous Graph Neural Networks for Keyphrase Generation\n
 *Jiacheng Ye*\*, Ruijian Cai\*, Tao Gui and Qi Zhang. \n
-To appear in EMNLP 2021, long paper.
+EMNLP 2021, long paper. \[[https://arxiv.org/abs/2109.04703 pdf]\]
 
 - + \[NEW!\] + Keyphrase Generation with Fine-Grained Evaluation-Guided Reinforcement Learning\n
 Yichao Luo\*, Yige Xu\*, *Jiacheng Ye*, Xipeng Qiu and Qi Zhang\n
-To appear in EMNLP-Findings 2021, long paper.
+EMNLP-Findings 2021, long paper. \[[https://arxiv.org/abs/2104.08799v2 pdf]\]
 
 - TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing\n
 ACL 2021 Demo, \[[https://arxiv.org/pdf/2103.11441.pdf pdf]\] \[[https://www.textflint.io/textflint platform]\] \[[https://github.com/textflint/textflint code]\] \[[https://www.jiqizhixin.com/articles/2021-04-06-6 blog (zh)]\]
@@ -68,9 +68,13 @@ Tao Gui\*, Lizhi Qing\*, Qi Zhang, *Jiacheng Ye*, Hang Yan, Zichu Fei and Xuanji
 AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howardqlz/Meta-MTL code]\] \n
 
 == Internships
-- Jun. 2021 - Present 
+- Nov. 2021 - Present
+\nResearch Intern, Shanghai AI Lab. Mentor: [https://ikekonglp.github.io/ Lingpeng Kong] and [https://taoyds.github.io/ Tao Yu].
+\nResearch about pre-training model and text generation.
+
+- Jun. 2021 - Nov. 2021
 \nResearch Intern, Tencent Ads. Mentor: Zhihui Lao and Lifeng Wang.
-\nResearch about a better pre-ranking paradigm for Advertising System and Recommendation System. 
+\nResearch about a better pre-ranking paradigm for Advertising System and Recommendation System. The final work is under review in WWW 2022.
 
 - Aug. 2018 - Dec. 2018 
 \nEngineer Intern, Netease Games. 
