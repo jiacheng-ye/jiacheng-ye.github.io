@@ -1,26 +1,28 @@
 # jemdoc: nofooter 
 \n
-== {{<span style="color:black;font-size:24pt;font-family:Songti SC">}}*Jiacheng Ye (叶佳成)*{{</span>}}\n
+== {{<span style="color:black;font-size:24pt;font-family:Songti SC">}}*Jiacheng Ye*{{</span>}}\n
 
 ~~~
-{}{img_left}{photos/bio.jpg}{alt text}{200}{200}
+{}{img_left}{photos/bio.png}{alt text}{200}{200}
 \n
-Second-year master student\n 
-[https://nlp.fudan.edu.cn NLP Group, School of Computer Science]\n
-[https://www.fudan.edu.cn/en/ Fudan University]\n
+First-year Ph.D. student\n
+[https://www.cs.hku.hk/ Department of Computer Science]\n
+[https://www.hku.hk/ The University of Hong Kong]
 
-*Email*: yejc19@fudan.edu.cn
 
-\[[https://jiacheng-ye.github.io/photos/cv.pdf CV]\] \[[https://github.com/jiacheng-ye Github]\] \[[https://scholar.google.com/citations?user=gh0CyxgAAAAJ Google Scholar]\]
+\[[carsonye@connect.hku.hk Email]\]
+\[[https://github.com/jiacheng-ye Github]\] \[[https://scholar.google.com/citations?user=gh0CyxgAAAAJ Google Scholar]\]
 ~~~
 
-Thanks for stopping by my website!
-\n\n
-I am a second-year master student of the Natural Langauge Processing Group, School of Computer Science and Technology, Fudan University ([https://nlp.fudan.edu.cn/nlpen/main.htm FudanNLP]). My advisors are pre-tenured assistant professor [https://guitaowufeng.github.io/ Tao Gui] and professor [http://www.qizhang.info/ Qi Zhang]. I'm interested in many of 
-subtasks of NLP, such as Keyphrase Generation, Named Entity Recognition and Text Generation.
+== About me
+I am a first-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [https://ikekonglp.github.io/ Dr. Lingpeng Kong] and [https://taoyds.github.io/ Dr. Tao Yu] in [https://nlp.cs.hku.hk/ HKUNLP].
+Previously, I study in [https://nlp.fudan.edu.cn/nlpen/main.htm FudanNLP], supervised by  [http://www.qizhang.info/ Prof. Qi Zhang]. My research interests include Text Generation and Pre-trained Language Models.
 
 == Education
-- Sep. 2019 - Present 
+- Sep. 2022 - Present
+\nPh.D., Computer Science, [https://www.hku.hk/ The University of Hong Kong]
+
+- Sep. 2019 - Jun. 2022
 \nM.S., Computer Science, [https://www.fudan.edu.cn/en/ Fudan University]
 
 - Sep. 2015 - Jun. 2019
@@ -31,18 +33,23 @@ subtasks of NLP, such as Keyphrase Generation, Named Entity Recognition and Text
 My research interests include:
 - Natural Language Processing
 - Text Generation
-- Information Extraction
+- Pre-trained Language Models
 
 
 == Publications 
 (\*: equal contribution)
 
+*2022*
+- ZeroGen: Efficient Zero-shot Learning via Dataset Generation\n
+*Jiacheng Ye*\*, Jiahui Gao\*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong.\n
+[https://arxiv.org/abs/2202.07922 Preprint 2022]. [https://github.com/jiacheng-ye/zerogen Code]
+
 *2021*
-- + \[NEW!\] + Heterogeneous Graph Neural Networks for Keyphrase Generation\n
+- Heterogeneous Graph Neural Networks for Keyphrase Generation\n
 *Jiacheng Ye*\*, Ruijian Cai\*, Tao Gui and Qi Zhang. \n
 EMNLP 2021, long paper. \[[https://arxiv.org/abs/2109.04703 pdf]\]
 
-- + \[NEW!\] + Keyphrase Generation with Fine-Grained Evaluation-Guided Reinforcement Learning\n
+- Keyphrase Generation with Fine-Grained Evaluation-Guided Reinforcement Learning\n
 Yichao Luo\*, Yige Xu\*, *Jiacheng Ye*, Xipeng Qiu and Qi Zhang\n
 EMNLP-Findings 2021, long paper. \[[https://arxiv.org/abs/2104.08799v2 pdf]\]
 
@@ -69,14 +76,14 @@ AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howa
 
 == Internships
 - Nov. 2021 - Present
-\nResearch Intern, The University of Hong Kong.
-\nMentor: [https://ikekonglp.github.io/ Lingpeng Kong] and [https://taoyds.github.io/ Tao Yu] in [https://nlp.cs.hku.hk/ HKU NLP Group].
-\nResearch about pre-training model and text generation.
+\nResearch Intern, Shanghai AI Lab.
+\nMentor: [https://ikekonglp.github.io/ Lingpeng Kong].
+\nResearch about Pre-trained Language Model and Text Generation.
 
 - Jun. 2021 - Nov. 2021
 \nResearch Intern, Tencent Ads.
 \nMentor: Zhihui Lao and Lifeng Wang.
-\nResearch about a better pre-ranking paradigm for Advertising System and Recommendation System. The final work is under review in WWW 2022.
+\nResearch about a better pre-ranking paradigm for Advertising System and Recommendation System.
 
 - Aug. 2018 - Dec. 2018 
 \nEngineer Intern, Netease Games. 
@@ -84,6 +91,7 @@ AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howa
 
 
 == Honors & Awards
+- Outstanding graduate of Shanghai, 2022.
 - National Scholarship (1\%), Fudan University, 2021.
 - Glarun Scholarship of CETC-NRIET (5\%), Fudan University, 2020.
 - The second-grade scholarship (10\%), Sun Yat-sen University, 2016\/2017\/2018.
