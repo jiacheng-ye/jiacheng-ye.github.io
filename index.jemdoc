@@ -3,7 +3,7 @@
 == {{<span style="color:black;font-size:24pt;font-family:Songti SC">}}*Jiacheng Ye*{{</span>}}\n
 
 ~~~
-{}{img_left}{photos/bio.png}{alt text}{200}{200}
+{}{img_left}{photos/bio.png}{alt text}{210}{200}
 \n
 First-year Ph.D. student\n
 [https://www.cs.hku.hk/ Department of Computer Science]\n
@@ -40,18 +40,22 @@ My research interests include:
 (\*: equal contribution)
 
 *2022*
+- ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback\n
+*Jiacheng Ye*, Jiahui Gao, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong.\n
+EMNLP-Findings 2022, long paper.
+
 - ZeroGen: Efficient Zero-shot Learning via Dataset Generation\n
 *Jiacheng Ye*\*, Jiahui Gao\*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong.\n
-[https://arxiv.org/abs/2202.07922 Preprint 2022]. [https://github.com/jiacheng-ye/zerogen Code]
+EMNLP 2022, long paper. \[[https://arxiv.org/abs/2202.07922 pdf]\]. \[[https://github.com/jiacheng-ye/zerogen code]\]
 
 *2021*
 - Heterogeneous Graph Neural Networks for Keyphrase Generation\n
 *Jiacheng Ye*\*, Ruijian Cai\*, Tao Gui and Qi Zhang. \n
-EMNLP 2021, long paper. \[[https://arxiv.org/abs/2109.04703 pdf]\]
+EMNLP 2021, long paper. \[[https://arxiv.org/abs/2109.04703 pdf]\] \[[https://github.com/jiacheng-ye/kg_gater code]\]
 
 - Keyphrase Generation with Fine-Grained Evaluation-Guided Reinforcement Learning\n
 Yichao Luo\*, Yige Xu\*, *Jiacheng Ye*, Xipeng Qiu and Qi Zhang\n
-EMNLP-Findings 2021, long paper. \[[https://arxiv.org/abs/2104.08799v2 pdf]\]
+EMNLP-Findings 2021, long paper. \[[https://arxiv.org/abs/2104.08799v2 pdf]\] \[[https://github.com/xuyige/FGRL4KG code]\]
 
 - TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing\n
 ACL 2021 Demo, \[[https://arxiv.org/pdf/2103.11441.pdf pdf]\] \[[https://www.textflint.io/textflint platform]\] \[[https://github.com/textflint/textflint code]\] \[[https://www.jiqizhixin.com/articles/2021-04-06-6 blog (zh)]\]
