@@ -15,34 +15,37 @@ First-year Ph.D. student\n
 ~~~
 
 == About me
-I am a first-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [https://ikekonglp.github.io/ Dr. Lingpeng Kong] and [https://taoyds.github.io/ Dr. Tao Yu] in [https://nlp.cs.hku.hk/ HKUNLP].
-Previously, I study in [https://nlp.fudan.edu.cn/nlpen/main.htm FudanNLP], supervised by  [http://www.qizhang.info/ Prof. Qi Zhang]. My research interests include Text Generation and Pre-trained Language Models.
-
-== Education
-- Sep. 2022 - Present
-\nPh.D., Computer Science, [https://www.hku.hk/ The University of Hong Kong]
-
-- Sep. 2019 - Jun. 2022
-\nM.S., Computer Science, [https://www.fudan.edu.cn/en/ Fudan University]
-
-- Sep. 2015 - Jun. 2019
-\nB.E., Information Management and Information System, [http://www.sysu.edu.cn/en/about/about01/index.htm Sun Yat-sen University]
+I am a first-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [https://ikekonglp.github.io/ Dr. Lingpeng Kong] and [https://taoyds.github.io/ Dr. Tao Yu] in [https://nlp.cs.hku.hk/ HKUNLP].\n
+I received my Master degree in [https://www.fudan.edu.cn/en/ Fudan University], supervised by  [http://www.qizhang.info/ Prof. Qi Zhang] in [https://nlp.fudan.edu.cn/nlpen/main.htm FudanNLP Group],
+and my Bachelor degree in [https://www.sysu.edu.cn/sysuen/ Sun Yat-sen University].
 
 
 == Research
-My research interests include:
-- Natural Language Processing
-- Text Generation
-- Pre-trained Language Models
+I am boardly interested in different topics in NLP. Currently, I focus more on interacting and exploiting large language models (LLMs):
+- Better interacting with LLMs via In-context Learning ([https://arxiv.org/abs/2212.10375 Self-adaptive ICL], [https://arxiv.org/abs/2302.05698 CEIL])
+- From general LLMs to task/domain specific efficient models by Data Distillation ([https://arxiv.org/abs/2202.07922 ZeroGen], [https://arxiv.org/abs/2210.12329 ProGen], [https://openreview.net/forum?id=h5OpjGd_lo6 SunGen]).
 
 
 == Publications 
 (\*: equal contribution)
 
+*2023*
+- Compositional Exemplars for In-context Learning\n
+*Jiacheng Ye*, Zhiyong Wu, Jiangtao Feng, Tao Yu, Lingpeng Kong\n
+Preprint. \[[https://arxiv.org/abs/2302.05698 pdf]\] \[[https://github.com/HKUNLP/icl-ceil code]\]
+
 *2022*
+- Self-adaptive In-context Learning\n
+Zhiyong Wu\*, Yaoxiang Wang\*, *Jiacheng Ye*\*, Lingpeng Kong\n
+Preprint. \[[https://arxiv.org/abs/2212.10375 pdf]\] \[[https://github.com/Shark-NLP/self-adaptive-ICL code]\]
+
+- Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning\n
+Jiahui Gao\*, Renjie Pi\*, Yong Lin, Hang Xu, *Jiacheng Ye*, Zhiyong Wu, Xiaodan Liang, Zhenguo Li, Lingpeng Kong.\n
+ICLR 2023, Spotlight. \[[https://openreview.net/forum?id=h5OpjGd_lo6 pdf]\]
+
 - ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback\n
 *Jiacheng Ye*, Jiahui Gao, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong.\n
-EMNLP-Findings 2022, long paper.
+EMNLP-Findings 2022, long paper. \[[https://arxiv.org/abs/2210.12329 pdf]\] \[[https://github.com/HKUNLP/ProGen code]\]
 
 - ZeroGen: Efficient Zero-shot Learning via Dataset Generation\n
 *Jiacheng Ye*\*, Jiahui Gao\*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong.\n
@@ -58,7 +61,7 @@ Yichao Luo\*, Yige Xu\*, *Jiacheng Ye*, Xipeng Qiu and Qi Zhang\n
 EMNLP-Findings 2021, long paper. \[[https://arxiv.org/abs/2104.08799v2 pdf]\] \[[https://github.com/xuyige/FGRL4KG code]\]
 
 - TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing\n
-ACL 2021 Demo, \[[https://arxiv.org/pdf/2103.11441.pdf pdf]\] \[[https://www.textflint.io/textflint platform]\] \[[https://github.com/textflint/textflint code]\] \[[https://www.jiqizhixin.com/articles/2021-04-06-6 blog (zh)]\]
+ACL 2021, \[[https://arxiv.org/pdf/2103.11441.pdf pdf]\] \[[https://www.textflint.io/textflint platform]\] \[[https://github.com/textflint/textflint code]\] \[[https://www.jiqizhixin.com/articles/2021-04-06-6 blog (zh)]\]
 
 - One2Set: Generating Diverse Keyphrases as a Set\n
 *Jiacheng Ye*, Tao Gui, Yichao Luo, Yige Xu, and Qi Zhang. \n
@@ -91,7 +94,7 @@ AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howa
 
 - Aug. 2018 - Dec. 2018 
 \nEngineer Intern, Netease Games. 
-\nWorked on data crawling with Scrapy framework and analysis with Spark, Hive, etc.
+\nWorked on data engineering.
 
 
 == Honors & Awards
