@@ -11,7 +11,7 @@ First-year Ph.D. student\n
 
 
 \[[carsonye@connect.hku.hk Email]\]
-\[[https://github.com/jiacheng-ye Github]\] \[[https://scholar.google.com/citations?user=gh0CyxgAAAAJ Google Scholar]\]
+\[[https://github.com/jiacheng-ye Github]\] \[[https://scholar.google.com/citations?user=gh0CyxgAAAAJ Google Scholar]\] \[[https://www.semanticscholar.org/author/Jiacheng-Ye/65846898 Semantic Scholar]\]
 ~~~
 
 == About me
@@ -22,26 +22,34 @@ and my Bachelor degree in [https://www.sysu.edu.cn/sysuen/ Sun Yat-sen Universit
 
 == Research
 I am boardly interested in different topics in NLP. Currently, I focus more on interacting and exploiting large language models (LLMs):
-- Better interacting with LLMs via In-context Learning ([https://arxiv.org/abs/2212.10375 Self-adaptive ICL], [https://arxiv.org/abs/2302.05698 CEIL])
+- Better interacting with LLMs via In-context Learning ([https://arxiv.org/abs/2212.10375 SAIL], [https://arxiv.org/abs/2302.05698 CEIL], [https://github.com/Shark-NLP/OpenICL OpenICL])
 - From general LLMs to task/domain specific efficient models by Data Distillation ([https://arxiv.org/abs/2202.07922 ZeroGen], [https://arxiv.org/abs/2210.12329 ProGen], [https://openreview.net/forum?id=h5OpjGd_lo6 SunGen]).
 
 
 == Publications 
 (\*: equal contribution)
 
-*2023*
+*Preprints*
+- OpenICL: An Open-Source Framework for In-context Learning\n
+Zhenyu Wu\*, YaoXiang Wang\*, *Jiacheng Ye*\*, Jiangtao Feng, Jingjing Xu, Yu Qiao, Zhiyong Wu.\n
+\[[https://arxiv.org/abs/2303.02913 pdf]\] \[[https://github.com/Shark-NLP/OpenICL code]\]
+
 - Compositional Exemplars for In-context Learning\n
 *Jiacheng Ye*, Zhiyong Wu, Jiangtao Feng, Tao Yu, Lingpeng Kong\n
-Preprint. \[[https://arxiv.org/abs/2302.05698 pdf]\] \[[https://github.com/HKUNLP/icl-ceil code]\]
+\[[https://arxiv.org/abs/2302.05698 pdf]\] \[[https://github.com/HKUNLP/icl-ceil code]\]
 
-*2022*
 - Self-adaptive In-context Learning\n
 Zhiyong Wu\*, Yaoxiang Wang\*, *Jiacheng Ye*\*, Lingpeng Kong\n
-Preprint. \[[https://arxiv.org/abs/2212.10375 pdf]\] \[[https://github.com/Shark-NLP/self-adaptive-ICL code]\]
+\[[https://arxiv.org/abs/2212.10375 pdf]\] \[[https://github.com/Shark-NLP/self-adaptive-ICL code]\]
+
+
+*2023*
 
 - Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning\n
 Jiahui Gao\*, Renjie Pi\*, Yong Lin, Hang Xu, *Jiacheng Ye*, Zhiyong Wu, Xiaodan Liang, Zhenguo Li, Lingpeng Kong.\n
-ICLR 2023, Spotlight. \[[https://openreview.net/forum?id=h5OpjGd_lo6 pdf]\]
+ICLR 2023, Spotlight. \[[https://openreview.net/forum?id=h5OpjGd_lo6 pdf]\] \[[https://github.com/HKUNLP/SunGen code]\]
+
+*2022*
 
 - ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback\n
 *Jiacheng Ye*, Jiahui Gao, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong.\n
