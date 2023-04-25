@@ -21,7 +21,7 @@ and my Bachelor degree in [https://www.sysu.edu.cn/sysuen/ Sun Yat-sen Universit
 
 
 == Research
-I am boardly interested in different topics in NLP. Currently, I focus more on interacting and exploiting large language models (LLMs):
+I am broadly interested in different topics in NLP. Currently, I focus more on interacting and exploiting large language models (LLMs):
 - Better interacting with LLMs via In-context Learning ([https://arxiv.org/abs/2212.10375 SAIL], [https://arxiv.org/abs/2302.05698 CEIL], [https://github.com/Shark-NLP/OpenICL OpenICL])
 - From general LLMs to task/domain specific efficient models by Data Distillation ([https://arxiv.org/abs/2202.07922 ZeroGen], [https://arxiv.org/abs/2210.12329 ProGen], [https://openreview.net/forum?id=h5OpjGd_lo6 SunGen]).
 
