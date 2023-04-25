@@ -3,7 +3,7 @@
 == {{<span style="color:black;font-size:24pt;font-family:Songti SC">}}*Jiacheng Ye*{{</span>}}\n
 
 ~~~
-{}{img_left}{photos/bio.png}{alt text}{210}{200}
+{}{img_left}{photos/bio.png}{alt text}{300}{200}
 \n
 First-year Ph.D. student\n
 [https://www.cs.hku.hk/ Department of Computer Science]\n
@@ -30,62 +30,61 @@ I am boardly interested in different topics in NLP. Currently, I focus more on i
 (\*: equal contribution)
 
 *Preprints*
-- OpenICL: An Open-Source Framework for In-context Learning\n
+- [https://arxiv.org/abs/2303.02913 OpenICL: An Open-Source Framework for In-context Learning]\n
 Zhenyu Wu\*, YaoXiang Wang\*, *Jiacheng Ye*\*, Jiangtao Feng, Jingjing Xu, Yu Qiao, Zhiyong Wu.\n
 \[[https://arxiv.org/abs/2303.02913 pdf]\] \[[https://github.com/Shark-NLP/OpenICL code]\]
 
-- Compositional Exemplars for In-context Learning\n
-*Jiacheng Ye*, Zhiyong Wu, Jiangtao Feng, Tao Yu, Lingpeng Kong\n
-\[[https://arxiv.org/abs/2302.05698 pdf]\] \[[https://github.com/HKUNLP/icl-ceil code]\]
-
-- Self-adaptive In-context Learning\n
-Zhiyong Wu\*, Yaoxiang Wang\*, *Jiacheng Ye*\*, Lingpeng Kong\n
+- [https://arxiv.org/abs/2212.10375 Self-adaptive In-context Learning]\n
+Zhiyong Wu\*, Yaoxiang Wang\*, *Jiacheng Ye*\*, Lingpeng Kong.\n
 \[[https://arxiv.org/abs/2212.10375 pdf]\] \[[https://github.com/Shark-NLP/self-adaptive-ICL code]\]
 
 
 *2023*
+- [https://arxiv.org/abs/2302.05698 Compositional Exemplars for In-context Learning]\n
+*Jiacheng Ye*, Zhiyong Wu, Jiangtao Feng, Tao Yu, Lingpeng Kong.\n
+ICML 2023. \[[https://arxiv.org/abs/2302.05698 pdf]\] \[[https://github.com/HKUNLP/icl-ceil code]\]
 
-- Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning\n
+- [https://openreview.net/forum?id=h5OpjGd_lo6 Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning]\n
 Jiahui Gao\*, Renjie Pi\*, Yong Lin, Hang Xu, *Jiacheng Ye*, Zhiyong Wu, Xiaodan Liang, Zhenguo Li, Lingpeng Kong.\n
-ICLR 2023, Spotlight. \[[https://openreview.net/forum?id=h5OpjGd_lo6 pdf]\] \[[https://github.com/HKUNLP/SunGen code]\]
+ICLR 2023, spotlight. \[[https://openreview.net/forum?id=h5OpjGd_lo6 pdf]\] \[[https://github.com/HKUNLP/SunGen code]\]
 
 *2022*
 
-- ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback\n
+- [https://arxiv.org/abs/2210.12329 ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback]\n
 *Jiacheng Ye*, Jiahui Gao, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong.\n
 EMNLP-Findings 2022, long paper. \[[https://arxiv.org/abs/2210.12329 pdf]\] \[[https://github.com/HKUNLP/ProGen code]\]
 
-- ZeroGen: Efficient Zero-shot Learning via Dataset Generation\n
+- [https://arxiv.org/abs/2202.07922 ZeroGen: Efficient Zero-shot Learning via Dataset Generation]\n
 *Jiacheng Ye*\*, Jiahui Gao\*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong.\n
 EMNLP 2022, long paper. \[[https://arxiv.org/abs/2202.07922 pdf]\]. \[[https://github.com/jiacheng-ye/zerogen code]\]
 
 *2021*
-- Heterogeneous Graph Neural Networks for Keyphrase Generation\n
+- [https://arxiv.org/abs/2109.04703 Heterogeneous Graph Neural Networks for Keyphrase Generation]\n
 *Jiacheng Ye*\*, Ruijian Cai\*, Tao Gui and Qi Zhang. \n
 EMNLP 2021, long paper. \[[https://arxiv.org/abs/2109.04703 pdf]\] \[[https://github.com/jiacheng-ye/kg_gater code]\]
 
-- Keyphrase Generation with Fine-Grained Evaluation-Guided Reinforcement Learning\n
-Yichao Luo\*, Yige Xu\*, *Jiacheng Ye*, Xipeng Qiu and Qi Zhang\n
+- [https://arxiv.org/abs/2104.08799v2 Keyphrase Generation with Fine-Grained Evaluation-Guided Reinforcement Learning]\n
+Yichao Luo\*, Yige Xu\*, *Jiacheng Ye*, Xipeng Qiu and Qi Zhang.\n
 EMNLP-Findings 2021, long paper. \[[https://arxiv.org/abs/2104.08799v2 pdf]\] \[[https://github.com/xuyige/FGRL4KG code]\]
 
-- TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing\n
-ACL 2021, \[[https://arxiv.org/pdf/2103.11441.pdf pdf]\] \[[https://www.textflint.io/textflint platform]\] \[[https://github.com/textflint/textflint code]\] \[[https://www.jiqizhixin.com/articles/2021-04-06-6 blog (zh)]\]
+- [https://arxiv.org/abs/2103.11441 TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing]\n
+ACL 2021, \[[https://arxiv.org/abs/2103.11441 pdf]\] \[[https://www.textflint.io/textflint platform]\] \[[https://github.com/textflint/textflint code]\] \[[https://www.jiqizhixin.com/articles/2021-04-06-6 blog (zh)]\]
 
-- One2Set: Generating Diverse Keyphrases as a Set\n
+- [https://arxiv.org/abs/2105.11134 One2Set: Generating Diverse Keyphrases as a Set]\n
 *Jiacheng Ye*, Tao Gui, Yichao Luo, Yige Xu, and Qi Zhang. \n
 ACL 2021, long paper. \[[https://arxiv.org/abs/2105.11134 pdf]\] \[[https://github.com/jiacheng-ye/kg_one2set code]\] \[[https://mp.weixin.qq.com/s/u6ioHKkju1wXNWwIMFjuaw blog (zh)]\]
 
 *2020*
 
-- Leveraging Document-Level Label Consistency for Named Entity Recognition \n
+- [https://www.ijcai.org/proceedings/2020/0550.pdf Leveraging Document-Level Label Consistency for Named Entity Recognition]\n
 Tao Gui\*, *Jiacheng Ye*\*, Qi Zhang, Yaqian Zhou, Yeyun Gong, Xuanjing Huang. \n
 IJCAI 2020. \[[https://www.ijcai.org/proceedings/2020/0550.pdf pdf]\] \[[https://github.com/jiacheng-ye/DocL-NER code]\] \n
 
-- Uncertainty-Aware Label Refinement for Sequence Labeling \n
+- [https://aclanthology.org/2020.emnlp-main.181.pdf Uncertainty-Aware Label Refinement for Sequence Labeling]\n
 Tao Gui\*, *Jiacheng Ye*\*, Qi Zhang, Zhengyan Li, Zichu Fei, Yeyun Gong and Xuanjing Huang. \n
 EMNLP 2020, long paper. \[[https://aclanthology.org/2020.emnlp-main.181.pdf pdf]\] \[[https://github.com/jiacheng-ye/UANet code]\] \n
 
-- Constructing Multiple Tasks for Augmentation: Improving Neural Image Classiﬁcation with K-means Features \n
+- [https://arxiv.org/abs/1911.07518 Constructing Multiple Tasks for Augmentation: Improving Neural Image Classiﬁcation with K-means Features]\n
 Tao Gui\*, Lizhi Qing\*, Qi Zhang, *Jiacheng Ye*, Hang Yan, Zichu Fei and Xuanjing Huang.\n
 AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howardqlz/Meta-MTL code]\] \n
 
@@ -96,18 +95,18 @@ AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howa
 \nResearch about Pre-trained Language Model and Text Generation.
 
 - Jun. 2021 - Nov. 2021
-\nResearch Intern, Tencent Ads.
+\nResearch Intern, Tencent.
 \nMentor: Zhihui Lao and Lifeng Wang.
 \nResearch about a better pre-ranking paradigm for Advertising System and Recommendation System.
 
 - Aug. 2018 - Dec. 2018 
-\nEngineer Intern, Netease Games. 
+\nEngineer Intern, Netease.
 \nWorked on data engineering.
 
 
 == Honors & Awards
-- Outstanding graduate of Shanghai, 2022.
-- National Scholarship (1\%), Fudan University, 2021.
+- Outstanding graduate of Shanghai, Shanghai, 2022.
+- National Scholarship (1\%), Ministry of Education of China, 2021.
 - Glarun Scholarship of CETC-NRIET (5\%), Fudan University, 2020.
 - The second-grade scholarship (10\%), Sun Yat-sen University, 2016\/2017\/2018.
 - The faculty scholarship (10\%), Sun Yat-sen University, 2016\/2017.
