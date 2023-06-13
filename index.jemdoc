@@ -21,25 +21,34 @@ and my Bachelor degree in [https://www.sysu.edu.cn/sysuen/ Sun Yat-sen Universit
 
 
 == Research
-I am broadly interested in different topics in NLP. Currently, I focus more on interacting and exploiting large language models (LLMs):
-- Better interacting with LLMs via In-context Learning ([https://arxiv.org/abs/2212.10375 SAIL], [https://arxiv.org/abs/2302.05698 CEIL], [https://github.com/Shark-NLP/OpenICL OpenICL])
-- From general LLMs to task/domain specific efficient models by Data Distillation ([https://arxiv.org/abs/2202.07922 ZeroGen], [https://arxiv.org/abs/2210.12329 ProGen], [https://openreview.net/forum?id=h5OpjGd_lo6 SunGen]).
-
+I am broadly interested in different topics in NLP. Currently, I focus more on interacting, understanding and improving large language models (LLMs):
+- From general LLMs to task/domain specific efficient models by Data Distillation ([https://arxiv.org/abs/2202.07922 ZeroGen], [https://arxiv.org/abs/2210.12329 ProGen], [https://openreview.net/forum?id=h5OpjGd_lo6 SunGen], [https://arxiv.org/abs/2305.13917 SymGen]).
+- Better interacting with LLMs via In-context Learning ([https://arxiv.org/abs/2212.10375 SAIL], [https://arxiv.org/abs/2302.05698 CEIL], [https://github.com/Shark-NLP/OpenICL OpenICL]).
+- Understanding and improving internal abilities ([https://arxiv.org/abs/2306.06688 multilingual-reasoning]).
 
 == Publications 
 (\*: equal contribution)
 
 *Preprints*
-- [https://arxiv.org/abs/2303.02913 OpenICL: An Open-Source Framework for In-context Learning]\n
-Zhenyu Wu\*, YaoXiang Wang\*, *Jiacheng Ye*\*, Jiangtao Feng, Jingjing Xu, Yu Qiao, Zhiyong Wu.\n
-\[[https://arxiv.org/abs/2303.02913 pdf]\] \[[https://github.com/Shark-NLP/OpenICL code]\]
+- [https://arxiv.org/abs/2306.06688 Language Versatilists vs. Specialists: An Empirical
+Revisiting on Multilingual Transfer Ability]\n
+*Jiacheng Ye*, Xijia Tao, Lingpeng Kong.\n
+\[[https://arxiv.org/abs/2306.06688 pdf]\] \[[https://github.com/HKUNLP/multilingual-transfer code]\]
 
-- [https://arxiv.org/abs/2212.10375 Self-adaptive In-context Learning]\n
-Zhiyong Wu\*, Yaoxiang Wang\*, *Jiacheng Ye*\*, Lingpeng Kong.\n
-\[[https://arxiv.org/abs/2212.10375 pdf]\] \[[https://github.com/Shark-NLP/self-adaptive-ICL code]\]
+- [https://arxiv.org/abs/2305.13917 Generating Data for Symbolic Language with Large Language Models]\n
+*Jiacheng Ye*, Chengzu Li, Lingpeng Kong, Tao Yu.\n
+\[[https://arxiv.org/abs/2305.13917 pdf]\] \[[https://github.com/HKUNLP/SymGen code]\]
 
 
 *2023*
+- [https://arxiv.org/abs/2303.02913 OpenICL: An Open-Source Framework for In-context Learning]\n
+Zhenyu Wu\*, YaoXiang Wang\*, *Jiacheng Ye*\*, Jiangtao Feng, Jingjing Xu, Yu Qiao, Zhiyong Wu.\n
+ACL 2023, demo. \[[https://arxiv.org/abs/2303.02913 pdf]\] \[[https://github.com/Shark-NLP/OpenICL code]\]
+
+- [https://arxiv.org/abs/2212.10375 Self-adaptive In-context Learning]\n
+Zhiyong Wu\*, Yaoxiang Wang\*, *Jiacheng Ye*\*, Lingpeng Kong.\n
+ACL 2023. \[[https://arxiv.org/abs/2212.10375 pdf]\] \[[https://github.com/Shark-NLP/self-adaptive-ICL code]\]
+
 - [https://arxiv.org/abs/2302.05698 Compositional Exemplars for In-context Learning]\n
 *Jiacheng Ye*, Zhiyong Wu, Jiangtao Feng, Tao Yu, Lingpeng Kong.\n
 ICML 2023. \[[https://arxiv.org/abs/2302.05698 pdf]\] \[[https://github.com/HKUNLP/icl-ceil code]\]
