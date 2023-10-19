@@ -5,7 +5,7 @@
 ~~~
 {}{img_left}{photos/bio.png}{alt text}{300}{200}
 \n
-First-year Ph.D. student\n
+Second-year Ph.D. student\n
 [https://www.cs.hku.hk/ Department of Computer Science]\n
 [https://www.hku.hk/ The University of Hong Kong]
 
@@ -15,7 +15,7 @@ First-year Ph.D. student\n
 ~~~
 
 == About me
-I am a first-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [https://ikekonglp.github.io/ Dr. Lingpeng Kong] and [https://taoyds.github.io/ Dr. Tao Yu] in [https://nlp.cs.hku.hk/ HKUNLP].\n
+I am a second-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [https://ikekonglp.github.io/ Dr. Lingpeng Kong] and [https://taoyds.github.io/ Dr. Tao Yu] in [https://nlp.cs.hku.hk/ HKUNLP].\n
 I received my Master degree in [https://www.fudan.edu.cn/en/ Fudan University], supervised by  [http://www.qizhang.info/ Prof. Qi Zhang] in [https://nlp.fudan.edu.cn/nlpen/main.htm FudanNLP Group],
 and my Bachelor degree in [https://www.sysu.edu.cn/sysuen/ Sun Yat-sen University].
 
@@ -35,12 +35,13 @@ Revisiting on Multilingual Transfer Ability]\n
 *Jiacheng Ye*, Xijia Tao, Lingpeng Kong.\n
 \[[https://arxiv.org/abs/2306.06688 pdf]\] \[[https://github.com/HKUNLP/multilingual-transfer code]\]
 
-- [https://arxiv.org/abs/2305.13917 Generating Data for Symbolic Language with Large Language Models]\n
-*Jiacheng Ye*, Chengzu Li, Lingpeng Kong, Tao Yu.\n
-\[[https://arxiv.org/abs/2305.13917 pdf]\] \[[https://github.com/HKUNLP/SymGen code]\]
-
 
 *2023*
+- [https://arxiv.org/abs/2305.13917 Generating Data for Symbolic Language with Large Language Models]\n
+*Jiacheng Ye*, Chengzu Li, Lingpeng Kong, Tao Yu.\n
+EMNLP 2023. \[[https://arxiv.org/abs/2305.13917 pdf]\] \[[https://github.com/HKUNLP/SymGen code]\]
+
+
 - [https://arxiv.org/abs/2303.02913 OpenICL: An Open-Source Framework for In-context Learning]\n
 Zhenyu Wu\*, YaoXiang Wang\*, *Jiacheng Ye*\*, Jiangtao Feng, Jingjing Xu, Yu Qiao, Zhiyong Wu.\n
 ACL 2023, demo. \[[https://arxiv.org/abs/2303.02913 pdf]\] \[[https://github.com/Shark-NLP/OpenICL code]\]
@@ -61,27 +62,27 @@ ICLR 2023, spotlight. \[[https://openreview.net/forum?id=h5OpjGd_lo6 pdf]\] \[[h
 
 - [https://arxiv.org/abs/2210.12329 ProGen: Progressive Zero-shot Dataset Generation via In-context Feedback]\n
 *Jiacheng Ye*, Jiahui Gao, Zhiyong Wu, Jiangtao Feng, Tao Yu, and Lingpeng Kong.\n
-EMNLP-Findings 2022, long paper. \[[https://arxiv.org/abs/2210.12329 pdf]\] \[[https://github.com/HKUNLP/ProGen code]\]
+EMNLP-Findings 2022. \[[https://arxiv.org/abs/2210.12329 pdf]\] \[[https://github.com/HKUNLP/ProGen code]\]
 
 - [https://arxiv.org/abs/2202.07922 ZeroGen: Efficient Zero-shot Learning via Dataset Generation]\n
 *Jiacheng Ye*\*, Jiahui Gao\*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong.\n
-EMNLP 2022, long paper. \[[https://arxiv.org/abs/2202.07922 pdf]\]. \[[https://github.com/jiacheng-ye/zerogen code]\]
+EMNLP 2022. \[[https://arxiv.org/abs/2202.07922 pdf]\]. \[[https://github.com/jiacheng-ye/zerogen code]\]
 
 *2021*
 - [https://arxiv.org/abs/2109.04703 Heterogeneous Graph Neural Networks for Keyphrase Generation]\n
 *Jiacheng Ye*\*, Ruijian Cai\*, Tao Gui and Qi Zhang. \n
-EMNLP 2021, long paper. \[[https://arxiv.org/abs/2109.04703 pdf]\] \[[https://github.com/jiacheng-ye/kg_gater code]\]
+EMNLP 2021. \[[https://arxiv.org/abs/2109.04703 pdf]\] \[[https://github.com/jiacheng-ye/kg_gater code]\]
 
 - [https://arxiv.org/abs/2104.08799v2 Keyphrase Generation with Fine-Grained Evaluation-Guided Reinforcement Learning]\n
 Yichao Luo\*, Yige Xu\*, *Jiacheng Ye*, Xipeng Qiu and Qi Zhang.\n
-EMNLP-Findings 2021, long paper. \[[https://arxiv.org/abs/2104.08799v2 pdf]\] \[[https://github.com/xuyige/FGRL4KG code]\]
+EMNLP-Findings 2021. \[[https://arxiv.org/abs/2104.08799v2 pdf]\] \[[https://github.com/xuyige/FGRL4KG code]\]
 
 - [https://arxiv.org/abs/2103.11441 TextFlint: Unified Multilingual Robustness Evaluation Toolkit for Natural Language Processing]\n
 ACL 2021, \[[https://arxiv.org/abs/2103.11441 pdf]\] \[[https://www.textflint.io/textflint platform]\] \[[https://github.com/textflint/textflint code]\] \[[https://www.jiqizhixin.com/articles/2021-04-06-6 blog (zh)]\]
 
 - [https://arxiv.org/abs/2105.11134 One2Set: Generating Diverse Keyphrases as a Set]\n
 *Jiacheng Ye*, Tao Gui, Yichao Luo, Yige Xu, and Qi Zhang. \n
-ACL 2021, long paper. \[[https://arxiv.org/abs/2105.11134 pdf]\] \[[https://github.com/jiacheng-ye/kg_one2set code]\] \[[https://mp.weixin.qq.com/s/u6ioHKkju1wXNWwIMFjuaw blog (zh)]\]
+ACL 2021. \[[https://arxiv.org/abs/2105.11134 pdf]\] \[[https://github.com/jiacheng-ye/kg_one2set code]\] \[[https://mp.weixin.qq.com/s/u6ioHKkju1wXNWwIMFjuaw blog (zh)]\]
 
 *2020*
 
@@ -91,14 +92,14 @@ IJCAI 2020. \[[https://www.ijcai.org/proceedings/2020/0550.pdf pdf]\] \[[https:/
 
 - [https://aclanthology.org/2020.emnlp-main.181.pdf Uncertainty-Aware Label Refinement for Sequence Labeling]\n
 Tao Gui\*, *Jiacheng Ye*\*, Qi Zhang, Zhengyan Li, Zichu Fei, Yeyun Gong and Xuanjing Huang. \n
-EMNLP 2020, long paper. \[[https://aclanthology.org/2020.emnlp-main.181.pdf pdf]\] \[[https://github.com/jiacheng-ye/UANet code]\] \n
+EMNLP 2020. \[[https://aclanthology.org/2020.emnlp-main.181.pdf pdf]\] \[[https://github.com/jiacheng-ye/UANet code]\] \n
 
 - [https://arxiv.org/abs/1911.07518 Constructing Multiple Tasks for Augmentation: Improving Neural Image Classiﬁcation with K-means Features]\n
 Tao Gui\*, Lizhi Qing\*, Qi Zhang, *Jiacheng Ye*, Hang Yan, Zichu Fei and Xuanjing Huang.\n
 AAAI 2020. \[[https://arxiv.org/abs/1911.07518 pdf]\] \[[https://github.com/Howardqlz/Meta-MTL code]\] \n
 
 == Internships
-- Nov. 2021 - Present
+- Nov. 2021 - Jul. 2023
 \nResearch Intern, Shanghai AI Lab.
 \nMentor: [https://ikekonglp.github.io/ Lingpeng Kong].
 \nResearch about Pre-trained Language Model and Text Generation.
