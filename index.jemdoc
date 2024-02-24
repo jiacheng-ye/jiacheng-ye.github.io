@@ -22,14 +22,23 @@ and my Bachelor degree in [https://www.sysu.edu.cn/sysuen/ Sun Yat-sen Universit
 
 == Research
 I am broadly interested in different topics in NLP. Currently, I focus more on interacting, understanding and improving large language models (LLMs):
-- From general LLMs to task/domain specific efficient models by Data Distillation ([https://arxiv.org/abs/2202.07922 ZeroGen], [https://arxiv.org/abs/2210.12329 ProGen], [https://openreview.net/forum?id=h5OpjGd_lo6 SunGen], [https://arxiv.org/abs/2305.13917 SymGen]).
-- Better interacting with LLMs via In-context Learning ([https://arxiv.org/abs/2212.10375 SAIL], [https://arxiv.org/abs/2302.05698 CEIL], [https://github.com/Shark-NLP/OpenICL OpenICL]).
-- Understanding and improving internal abilities ([https://arxiv.org/abs/2306.06688 multilingual-reasoning]).
+- Data synthesis ([https://arxiv.org/abs/2202.07922 ZeroGen], [https://arxiv.org/abs/2210.12329 ProGen], [https://openreview.net/forum?id=h5OpjGd_lo6 SunGen], [https://arxiv.org/abs/2305.13917 SymGen], [https://arxiv.org/abs/2312.11370 G-LLaVA]).
+- Better interacting with LLMs ([https://arxiv.org/abs/2212.10375 SAIL], [https://arxiv.org/abs/2302.05698 CEIL], [https://github.com/Shark-NLP/OpenICL OpenICL]).
+- Understanding internal abilities ([https://arxiv.org/abs/2306.06688 multilingual-reasoning]).
+- Diffusion language model ([https://arxiv.org/abs/2402.07754 diffusion-of-thoughts]).
 
 == Publications 
 (\*: equal contribution)
 
 *Preprints*
+- [https://arxiv.org/abs/2402.07754 Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models]\n
+*Jiacheng Ye*\*, Shansan Gong\*, Liheng Chen\*, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Zhenguo Li, Wei Bi, Lingpeng Kong.\n
+\[[https://arxiv.org/abs/2402.07754 pdf]\] \[[https://github.com/HKUNLP/diffusion-of-thoughts code]\]
+
+- [https://arxiv.org/abs/2312.11370 G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model]\n
+Jiahui Gao\*, Renjie Pi\*, Jipeng Zhang, *Jiacheng Ye*, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong.\n
+\[[https://arxiv.org/abs/2312.11370 pdf]\] \[[https://github.com/pipilurj/G-LLaVA code]\]
+
 - [https://arxiv.org/abs/2306.06688 Language Versatilists vs. Specialists: An Empirical
 Revisiting on Multilingual Transfer Ability]\n
 *Jiacheng Ye*, Xijia Tao, Lingpeng Kong.\n
