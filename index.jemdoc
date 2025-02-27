@@ -29,13 +29,17 @@ My recent research focuses on below topics:
 (\*: equal contribution)
 
 *Text Diffusion*
+- [https://openreview.net/pdf?id=A9y3LFX4ds Implicit Search via Discrete Diffusion: A Study on Chess]\n
+*Jiacheng Ye*, Zhenyu Wu, Jiahui Gao, Zhiyong Wu, Xin Jiang, Zhenguo Li, Lingpeng Kong.\n
+ICLR 2025. \[[https://github.com/HKUNLP/DiffuSearch code]\] \[[https://lichess.org/diffusearchv0 chess-agent]\]
+
 - [https://arxiv.org/abs/2410.14157 Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning]\n
 *Jiacheng Ye*, Jiahui Gao, Shansan Gong, Lin Zheng, Xin Jiang, Zhenguo Li, Lingpeng Kong.\n
-Preprint. \[[https://github.com/HKUNLP/diffusion-vs-ar code]\]
+ICLR 2025. \[[https://github.com/HKUNLP/diffusion-vs-ar code]\]
 
 - [https://arxiv.org/abs/2410.17891 Scaling Diffusion Language Models via Adaptation from Autoregressive Models]\n
 Shansan Gong\*, Shivam Agarwal\*, Yizhe Zhang, *Jiacheng Ye*, Lin Zheng, Mukai Li, Chenxin An, Peilin Zhao, Wei Bi, Jiawei Han, Hao Peng, Lingpeng Kong.\n
-Preprint. \[[https://github.com/HKUNLP/DiffuLLaMA code]\]
+ICLR 2025. \[[https://github.com/HKUNLP/DiffuLLaMA code]\]
 
 - [https://arxiv.org/abs/2402.07754 Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models]\n
 *Jiacheng Ye*\*, Shansan Gong\*, Liheng Chen\*, Lin Zheng, Jiahui Gao, Han Shi, Chuan Wu, Zhenguo Li, Wei Bi, Lingpeng Kong.\n
@@ -56,17 +60,10 @@ Zhiyong Wu\*, Yaoxiang Wang\*, *Jiacheng Ye*\*, Lingpeng Kong.\n
 ACL 2023. \[[https://github.com/Shark-NLP/self-adaptive-ICL code]\]
 
 
-*Understanding LLMs*
-- [https://arxiv.org/abs/2306.06688 Language Versatilists vs. Specialists: An Empirical
-Revisiting on Multilingual Transfer Ability]\n
-*Jiacheng Ye*, Xijia Tao, Lingpeng Kong.\n
-Preprint. \[[https://github.com/HKUNLP/multilingual-transfer code]\]
-
-
 *Data Synthesis*
 - [https://arxiv.org/abs/2312.11370 G-LLaVA: Solving Geometric Problem with Multi-Modal Large Language Model]\n
 Jiahui Gao\*, Renjie Pi\*, Jipeng Zhang, *Jiacheng Ye*, Wanjun Zhong, Yufei Wang, Lanqing Hong, Jianhua Han, Hang Xu, Zhenguo Li, Lingpeng Kong.\n
-Preprint. \[[https://github.com/pipilurj/G-LLaVA code]\]
+ICLR 2025. \[[https://github.com/pipilurj/G-LLaVA code]\]
 
 - [https://arxiv.org/abs/2305.13917 Generating Data for Symbolic Language with Large Language Models]\n
 *Jiacheng Ye*, Chengzu Li, Lingpeng Kong, Tao Yu.\n
@@ -82,7 +79,14 @@ EMNLP-Findings 2022. \[[https://github.com/HKUNLP/ProGen code]\]
 
 - [https://arxiv.org/abs/2202.07922 ZeroGen: Efficient Zero-shot Learning via Dataset Generation]\n
 *Jiacheng Ye*\*, Jiahui Gao\*, Qintong Li, Hang Xu, Jiangtao Feng, Zhiyong Wu, Tao Yu and Lingpeng Kong.\n
-EMNLP 2022. \[[https://github.com/jiacheng-ye/zerogen code]\]
+EMNLP 2022. \[[https://github.com/jiacheng-ye/zerogen code]\] \[[https://www.paperdigest.org/2024/09/most-influential-emnlp-papers-2024-09/ PaperDigest Most Influential Papers]]\]
+
+
+*Understanding LLMs*
+- [https://arxiv.org/abs/2306.06688 Language Versatilists vs. Specialists: An Empirical
+Revisiting on Multilingual Transfer Ability]\n
+*Jiacheng Ye*, Xijia Tao, Lingpeng Kong.\n
+Preprint. \[[https://github.com/HKUNLP/multilingual-transfer code]\]
 
 
 *Before LLMs*
