@@ -25,11 +25,15 @@ My recent research focuses on below topics:
 - Interacting and understanding LLMs
 - Data synthesis principles
 
-== Publications 
-(\*: equal contribution)
+== Research
 
 *Text Diffusion*
-- [https://openreview.net/pdf?id=A9y3LFX4ds Implicit Search via Discrete Diffusion: A Study on Chess]\n
+- [https://hkunlp.github.io/blog/2025/dream Dream 7B: Scalable Diffusion Language Models]\n
+*Jiacheng Ye*\*, Zhihui Xie\*, Lin Zheng\*, Jiahui Gao\*, Zirui Wu, Xin Jiang, Zhenguo Li, Lingpeng Kong\n
+2025
+\[[https://github.com/HKUNLP/Dream code]\] \[[https://mp.weixin.qq.com/s/CVssj4w-UPXodjIO640_Ww Synced(机器之心)]\]
+
+- [https://arxiv.org/abs/2502.19805 Implicit Search via Discrete Diffusion: A Study on Chess]\n
 *Jiacheng Ye*, Zhenyu Wu, Jiahui Gao, Zhiyong Wu, Xin Jiang, Zhenguo Li, Lingpeng Kong.\n
 ICLR 2025. \[[https://github.com/HKUNLP/DiffuSearch code]\] \[[https://lichess.org/diffusearchv0 chess-agent]\]
 
