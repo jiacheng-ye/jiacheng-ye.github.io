@@ -5,7 +5,7 @@
 ~~~
 {}{img_left}{photos/bio.png}{alt text}{300}{200}
 \n
-Third-year Ph.D. student\n
+Final-year Ph.D. student\n
 [https://www.cs.hku.hk/ Department of Computer Science]\n
 [https://www.hku.hk/ The University of Hong Kong]
 
@@ -15,7 +15,7 @@ Third-year Ph.D. student\n
 ~~~
 
 == About me
-I am a third-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [https://ikekonglp.github.io/ Dr. Lingpeng Kong] and [https://taoyds.github.io/ Dr. Tao Yu] in [https://nlp.cs.hku.hk/ HKUNLP]. 
+I am a final-year Ph.D. student at the Department of Computer Science in the University of Hong Kong (HKU), supervised by [https://ikekonglp.github.io/ Dr. Lingpeng Kong] and [https://taoyds.github.io/ Dr. Tao Yu] in [https://nlp.cs.hku.hk/ HKUNLP]. 
 I received my Master degree in [https://www.fudan.edu.cn/en/ Fudan University], supervised by  [http://www.qizhang.info/ Prof. Qi Zhang] in [https://nlp.fudan.edu.cn/nlpen/main.htm FudanNLP Group],
 and my Bachelor degree in [https://www.sysu.edu.cn/sysuen/ Sun Yat-sen University].
 
@@ -28,10 +28,21 @@ My recent research focuses on below topics:
 == Research
 
 *Text Diffusion*
-- [https://hkunlp.github.io/blog/2025/dream Dream 7B: Scalable Diffusion Language Models]\n
-*Jiacheng Ye*\*, Zhihui Xie\*, Lin Zheng\*, Jiahui Gao\*, Zirui Wu, Xin Jiang, Zhenguo Li, Lingpeng Kong\n
+- [https://hkunlp.github.io/blog/2025/dreamon DreamOn: Diffusion Language Models For Code Infilling Beyond Fixed-Size Canvas]\n
+Zirui Wu\*, Lin Zheng\*, Zhihui Xie, *Jiacheng Ye*, Jiahui Gao, Xin Jiang, Zhenguo Li, Lingpeng Kong.\n
 2025
-\[[https://github.com/HKUNLP/Dream code]\] \[[https://mp.weixin.qq.com/s/CVssj4w-UPXodjIO640_Ww Synced(机器之心)]\]
+\[[https://github.com/dreamlm/Dreamon code]\]
+
+- [https://hkunlp.github.io/blog/2025/dream-coder Dream-Coder 7B: An Open Diffusion Language Model for Code]\n
+Zhihui Xie\*, *Jiacheng Ye*\*, Lin Zheng\*, Jiahui Gao\*, Jingwei Dong, Zirui Wu, Xueliang Zhao, Shansan
+Gong, Xin Jiang, Zhenguo Li, Lingpeng Kong.\n
+2025
+\[[https://github.com/dreamlm/Dream-Coder code]\]
+
+- [https://hkunlp.github.io/blog/2025/dream Dream 7B: Scalable Diffusion Language Models]\n
+*Jiacheng Ye*\*, Zhihui Xie\*, Lin Zheng\*, Jiahui Gao\*, Zirui Wu, Xin Jiang, Zhenguo Li, Lingpeng Kong.\n
+2025
+\[[https://github.com/dreamlm/Dream code]\] \[[https://mp.weixin.qq.com/s/CVssj4w-UPXodjIO640_Ww Synced(机器之心)]\]
 
 - [https://arxiv.org/abs/2502.19805 Implicit Search via Discrete Diffusion: A Study on Chess]\n
 *Jiacheng Ye*, Zhenyu Wu, Jiahui Gao, Zhiyong Wu, Xin Jiang, Zhenguo Li, Lingpeng Kong.\n
